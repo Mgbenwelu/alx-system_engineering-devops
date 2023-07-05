@@ -1,2 +1,1 @@
-The file contains a command that when executed shows the current working directory.
-
+The file contains shell commands for different purposes as labelled on the file.
